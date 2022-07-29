@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this is a small project to learn how to add, edit and delete feedback in order to learn react hooks [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
